@@ -1,0 +1,21 @@
+{
+  "name": "crosscheck",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "CrossCheck — see the collisions before they happen",
+  "scripts": {
+    "bootstrap": "cd backend && npm install && cd ../infrastructure && npm install && cd ../frontend && npm install",
+    "test": "cd backend && npm test",
+    "build:frontend": "cd frontend && npm run build",
+    "synth": "npm run build:frontend && cd infrastructure && npx cdk synth",
+    "deploy": "npm run build:frontend && cd infrastructure && npx cdk deploy",
+    "destroy": "cd infrastructure && npx cdk destroy",
+    "synth:no-cloudfront": "npm run build:frontend && cd infrastructure && npx cdk synth -c cloudfront=false",
+    "deploy:no-cloudfront": "npm run build:frontend && cd infrastructure && npx cdk deploy -c cloudfront=false",
+    "diff:no-cloudfront": "cd infrastructure && npx cdk diff -c cloudfront=false"
+  },
+  "devDependencies": {
+    "esbuild": "^0.24.0"
+  }
+}
