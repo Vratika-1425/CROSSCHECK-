@@ -22,6 +22,8 @@
 </div>
 
 ---
+<img width="1600" height="900" alt="PHOTO-2026-09-20-18-58-30" src="https://github.com/user-attachments/assets/594830e4-be74-4f97-90ed-db8627991973" />
+
 
 ## The problem
 
