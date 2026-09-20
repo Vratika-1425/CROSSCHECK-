@@ -6,7 +6,7 @@
 
 **Infrastructure intelligence for cities that keep digging up the same road.**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-crosscheck.manus.space-0b7285?style=for-the-badge)](https://crosscheck-kocuecpj.manus.space)
+[![Live Demo](http://crosscheckstack-sitebucket397a1860-y125rsu1upvh.s3-website.ap-south-1.amazonaws.com)
 [![License](https://img.shields.io/badge/License-MIT-1b7a3d?style=for-the-badge)](#-license)
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
@@ -569,6 +569,6 @@ MIT — see [`LICENSE`](LICENSE).
 
 **Build cities that don't dig twice.**
 
-[Live demo](https://crosscheck-kocuecpj.manus.space) · [Report an issue](https://github.com/Vratika-1425/CROSSCHECK-/issues)
+[Live demo](http://crosscheckstack-sitebucket397a1860-y125rsu1upvh.s3-website.ap-south-1.amazonaws.com) · [Report an issue](https://github.com/Vratika-1425/CROSSCHECK-/issues)
 
 </div>
