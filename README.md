@@ -6,7 +6,8 @@
 
 **Infrastructure intelligence for cities that keep digging up the same road.**
 
-[![Live Demo](http://crosscheckstack-sitebucket397a1860-y125rsu1upvh.s3-website.ap-south-1.amazonaws.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-1b7a3d?style=for-the-badge)](http://crosscheckstack-sitebucket397a1860-y125rsu1upvh.s3-website.ap-south-1.amazonaws.com)
+
 [![License](https://img.shields.io/badge/License-MIT-1b7a3d?style=for-the-badge)](#-license)
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
