@@ -423,16 +423,6 @@ CROSSCHECK/
     └── cdk.json
 ```
 
----
-
-## 🚀 60-second demo
-
-1. **Open the console** — scroll to `#network`. Twelve projects across six agencies render on the Bengaluru map.
-2. **Find the collision** — the amber markers are detected collisions. Click **Richmond Road**.
-3. **Read the brief** — two agencies, 72 m apart, overlapping for 75 days. A water main renewal and a road resurfacing, concurrently.
-4. **Download it** — *Download brief* produces the coordination memo; the intelligence section turns the same finding into an RTI draft.
-5. **Route around it** — enter `Indiranagar → MG Road`. Real OSRM alternatives come back ranked by how many disruption zones each crosses.
-6. **Bring your own data** — upload a CSV of your own ward's projects. It is archived, normalised, stored and re-scanned; the map redraws against your records.
 
 ---
 
