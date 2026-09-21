@@ -557,16 +557,6 @@ Contributions are welcome — especially **real public-works data**, which is th
 - Accessibility and mobile improvements to the console
 - Cost-model calibration against real resurfacing tenders
 
-If you are contributing data, note the source and licence in your PR. Provenance is the point.
-
----
-
-## 📜 License
-
-MIT — see [`LICENSE`](LICENSE).
-
-<div align="center">
-<br>
 
 **Build cities that don't dig twice.**
 
